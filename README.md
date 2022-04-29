@@ -6,26 +6,25 @@
 
 # Recanto das Ideias
 
-## Nome do Grupo
+## Nome dos Integrantes
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Danila Pereira dos Santos</a>, <a href="https://www.linkedin.com/in/victorbarq/">William Philipp Bigi Soares da Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Bruno Saporito</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Danila Pereira dos Santos</a>, <a href="https://www.linkedin.com/in/victorbarq/">William Philipp Bigi Soares da Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Bruno Vinicius de Oliveira Saporito</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">David Lemes</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosetti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Fracisco Escobar</a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Recanto das Ideias" border="0">
+  Game by <a href="http://www.nyphotographic.com/">Grupo 2 </a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Recanto das Ideias é um portal de publicação e comunicação de projetos universitários, onde o aluno publica o projeto e empresas podem ter acesso para patrocinar o projeto ou contratar alunos talentosos para posições em aberto.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+Meu projeto ajuda estudantes a divulgarem seus projetos universitários
 <br><br>
-May the force be with you!
-<br><br>
+
 
 ## 🛠 Estrutura de pastas
 
